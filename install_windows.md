@@ -115,7 +115,7 @@ k) Executar Run
 
 O Led da placa deve piscar.
 
-O arquivo "bluepill_blink_stm32cube.rar" contém esse exemplo. Coloque seu conteúdo no workspace de trabalho e abra no Eclipse. 
+O arquivo [bluepill_blink_stm32cube.rar](bluepill_blink_stm32cube.rar) contém esse exemplo. Coloque seu conteúdo no workspace de trabalho e abra no Eclipse. 
 
 
 ## Recomendações
